@@ -18,11 +18,11 @@ Now, the detected cloak is masked by an image from the background, creating an e
 
 The output stops when the escape key is pressed and the video is saved to a local storage device. 
 
-##Morphology transformations used:
+## Morphology transformations used:
 1. Dilate : A pixel remains bright if atleast one pixel under the kernel is also bright. Hence, the white region of the foreground is increased.
 
 2. Opening: Opening is just erosion(eroding the boundaries of the foreground object) followed by dilation.
 
-##Sources
+## Sources
 https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
 https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
