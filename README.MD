@@ -7,4 +7,7 @@ WEEK 2
   CNN
   
 WEEK 3
-  OpenCV
+  OpenCV - Invisibility cloak
+  
+WEEK 4
+  OpenCV - Ball Detection
